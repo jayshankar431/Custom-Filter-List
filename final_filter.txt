@@ -1,4 +1,4 @@
-! Title:Filter List By jayshankar431
+! Title: Filter List By jayshankar431
 ! Description: My personal filter
 ! Homepage: (https://raw.githubusercontent.com/jayshankar431/Custom-Filter-List/refs/heads/main/final_filter.txt)
 @@||dresskiss.info^$first-party
