@@ -359,3 +359,40 @@ xvideos.com##.head__btn--join
 xvideos.com##.thread-video-comments
 xvideos.com##.botLinks
 xvideos.com##.body--video > div:nth-child(4)
+movies4u.sc###header > div:nth-of-type(2) > div:nth-of-type(2) > .ct-container-fluid > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div.ct-widget.widget_block:nth-of-type(2) > div
+movies4u.sc##.entry-content.is-layout-flow > p:nth-of-type(3)
+movies4u.sc##.entry-content.is-layout-flow > p:nth-of-type(4)
+movies4u.sc##p:nth-of-type(7)
+movies4u.sc##p:nth-of-type(9)
+movies4u.sc##.ct-related-posts.is-width-constrained
+movies4u.sc###header > div:nth-of-type(2) > div:nth-of-type(2) > .ct-container-fluid > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > .ct-widget.widget_block.widget_categories > .wp-block-categories-list.aligncenter.lools.wp-block-categories > .cat-item.cat-item-5 > [href*="https://movies4u.sc/category/bangali/"]
+movies4u.sc###header > div:nth-of-type(2) > div:nth-of-type(2) > .ct-container-fluid > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > .ct-widget.widget_block.widget_categories > .wp-block-categories-list.aligncenter.lools.wp-block-categories
+xhamster.desi##.list-5f2e3.collapsed-5f2e3
+xhamster.desi##.button-390e8.video-actions__control.report-control
+xhamster.desi##.xplayer-views-info
+xhamster.desi###show_comments > .action-title
+xhamster.desi###show_comments
+xhamster.desi##.xh-icon.like.flip-v
+xhamster.desi##.root-64d24.ratingButton-a6242.video-actions__control.rateNo
+xhamster.desi###commentToggle
+xhamster.desi##li.video-actions__item:nth-of-type(6)
+xhamster.desi##li.video-actions__item:nth-of-type(2)
+xhamster.desi##.root-64d24.color-indigo-64d24.hasRightIcon-64d24.button-cdbbb
+xhamster.desi##a.root-64d24.color-secondary-64d24.button-aef6f.pm-button:nth-of-type(2)
+xhamster.desi##.video_info
+xhamster.desi##.columnContainer-cb57f
+xhamster.desi##.bottom-cb57f
+xhamster.desi##.root-3d59f.mobile-3d59f
+xhamster.desi##.earn-cb57f
+xhamster.desi##.container-4de46.categoriesBottom-3de11
+xhamster.desi###video-tags-list-container
+xhamster.desi##li.listItem-7ae27:nth-of-type(3) > .root-48288.primary-48288.link-7ae27
+xhamster.desi##li.listItem-7ae27:nth-of-type(2) > .root-48288.primary-48288.link-7ae27
+xhamster.desi##li.listItem-7ae27:nth-of-type(1) > .root-48288.primary-48288.link-7ae27 > span:nth-of-type(2)
+xhamster.desi##li.listItem-7ae27:nth-of-type(1) > .root-48288.primary-48288.link-7ae27
+xhamster.desi##li.listItem-7ae27:nth-of-type(4) > .root-48288.primary-48288.link-7ae27
+xhamster.desi##.list-7ae27
+xhamster.desi##.root-7ae27
+xhamster.desi##div.blockListItem-3d73a:nth-of-type(1)
+xhamster.desi##div.blockListItem-3d73a:nth-of-type(2)
+xhamster.desi##.root-64d24.color-yellow-64d24.fullWidth-64d24.button-6cd61
