@@ -18,7 +18,36 @@ driveseed.org##.py-3
 
 
 
+############################    Vizard AI   ###############
 
+vizard.ai##.copyright-area
+vizard.ai##.right-area > div.el-tooltip.item:nth-of-type(1) > .header-button.div
+vizard.ai##.first-video
+vizard.ai##.introducing-button
+vizard.ai##.first-model-second-text
+vizard.ai##.free-mark
+vizard.ai##.accomplishment
+vizard.ai##.social-ready.need-fide-in.fade-in-animation
+vizard.ai##.who-we-help-area
+vizard.ai##.teams-we-serve.need-fide-in.fade-in-animation
+vizard.ai##.slider-item-container
+vizard.ai##.section-title.need-fide-in.bg-section-title-dark.fade-in-animation
+vizard.ai##.picture-sticky-main > .intro-h2.need-fide-in.fade-in-animation
+vizard.ai##.vizard-work-area
+vizard.ai##.tools-container.need-fide-in.fade-in-animation
+vizard.ai##.evaluate-area-container
+vizard.ai##.try-area
+vizard.ai##.logo-scroll.need-fide-in.fade-in-animation
+vizard.ai###svg03
+vizard.ai##.h1
+vizard.ai###svg01
+vizard.ai###svg00
+vizard.ai##.footer-logo
+vizard.ai##.case-list
+vizard.ai##.product-list
+vizard.ai##.blog-list
+vizard.ai##.company-list
+ezremove.ai##.maximize-hint
 
 
 
