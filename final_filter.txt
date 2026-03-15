@@ -182,6 +182,19 @@ www.facebook.com##div.x1lliihq:nth-of-type(6) > div:nth-of-type(1) > span:nth-of
 www.xvideos.com##.terms
 www.xvideos.com##.premium-results-line-see-more
 www.xvideos.com##.premium-results-line
+www.xvideos.com##.remove-ads > p
+www.xvideos.com###mobile-header-links
+www.xvideos.com###ad-header-mobile
+www.xvideos.com##.icon-f.icf-thumb-down.big-if-zero-2120
+www.xvideos.com##.rating-bad-perc.hide-if-zero-2120
+www.xvideos.com##.vote-action-bad
+www.xvideos.com##.comments.tab-button > span:nth-of-type(1) > .icon-f.icf-comment-o
+www.xvideos.com##.comments.tab-button > span:nth-of-type(2)
+www.xvideos.com##.comments.tab-button
+www.xvideos.com##.report.tab-button > .icon-f.icf-warning-stop
+www.xvideos.com##.report.tab-button
+www.xvideos.com###v-actions-left
+www.xvideos.com###tabComments_bottom_page
 www.xvideos4.com##div:nth-of-type(4)
 www.xvideos4.com##.head__menu-line__main-menu__lvl1.red-ticket
 www.xvideos4.com##.head__menu-line__main-menu > li:nth-of-type(5)
@@ -313,6 +326,50 @@ xhamster.desi##.rb-new__button--dislike
 xhamster.desi##.rb-new__button--like
 xhamster.desi##.about-control
 xhamster.desi##.gray.button-390e8
+xhamster.desi##.prePopunderLabel-15e4c.page-15e4c
+xhamster.desi##.fSYoP-vcAXf.fSYoP-vcAXf--middle.fSYoP-vcAXfno-ts-init
+xhamster.desi##.imageContainer-af69e.thumb-image-container.mobile-thumb-player-container
+xhamster.desi##li.thumb-list-mobile-item.thumb-list-mobile-item--type-video:nth-of-type(45)
+xhamster.desi##div.block-0d76d:nth-of-type(3)
+xhamster.desi##.heading-b7566.withIcons-b7566
+xhamster.desi##.thumbs-b7566
+xhamster.desi##li.thumb-list-mobile-item.thumb-list-mobile-item--type-video:nth-of-type(47)
+xhamster.desi##.root-48288.primary-48288.itemLink-7f33d.itemLinkPadding-7f33d
+xhamster.desi##.list-7f33d
+xhamster.desi##.container-f57ba
+
+www.xvideos.com##.remove-ads > p
+www.xvideos.com###mobile-header-links
+www.xvideos.com###ad-header-mobile
+www.xvideos.com##.icon-f.icf-thumb-down.big-if-zero-2120
+www.xvideos.com##.rating-bad-perc.hide-if-zero-2120
+www.xvideos.com##.vote-action-bad
+www.xvideos.com##.comments.tab-button > span:nth-of-type(1) > .icon-f.icf-comment-o
+www.xvideos.com##.comments.tab-button > span:nth-of-type(2)
+www.xvideos.com##.comments.tab-button
+www.xvideos.com##.report.tab-button > .icon-f.icf-warning-stop
+www.xvideos.com##.report.tab-button
+www.xvideos.com###v-actions-left
+www.xvideos.com###tabComments_bottom_page
+xhamster.desi##._8b4ca96f._0c4ead51
+xhamster.desi##.tabSet-792ed.nowrap-792ed
+xhamster.desi##.fSYoP-vcAXf.fSYoP-vcAXf--middle.fSYoP-vcAXfno-ts-init
+xhamster.desi##.imageContainer-af69e.thumb-image-container.mobile-thumb-player-container
+xhamster.desi##.thumb-list-mobile-item.thumb-list-mobile-item--type-video.page-1
+xhamster.desi##.root-6e57a
+xhamster.desi##.container-f57ba
+xhamster.desi##.prePopunderLabel-15e4c.page-15e4c
+xhamster.desi##li.thumbContainer-53a78.thumb-list-mobile-item.page-2:nth-of-type(16) > .root-56cf2.skeleton-53a78
+xhamster.desi##li.thumbContainer-53a78.thumb-list-mobile-item.page-2:nth-of-type(16)
+xhamster.desi##li.thumb-list-mobile-item.thumb-list-mobile-item--type-video.page-2:nth-of-type(23)
+xhamster.desi##li.thumbContainer-53a78.thumb-list-mobile-item.page-2:nth-of-type(29) > .root-56cf2.skeleton-53a78
+xhamster.desi##li.thumbContainer-53a78.thumb-list-mobile-item.page-2:nth-of-type(29)
+xhamster.desi##.heading-b7566.withIcons-b7566
+xhamster.desi##.thumbs-b7566
+xhamster.desi##li.thumb-list-mobile-item.thumb-list-mobile-item--type-video:nth-of-type(47)
+xhamster.desi##div.block-0d76d:nth-of-type(3)
+xhamster.desi##.video-page__layout-ad.video-page_border
+xhamster.desi##.secondary-8643e.title-15e4c
 xhamster1.desi##.newNav-64b3c:nth-child(4)
 xhamster1.desi##.newNav-64b3c:nth-child(5)
 xhamster1.desi##.newNav-64b3c:nth-child(7)
@@ -329,6 +386,28 @@ xhamster1.desi##.gray.button-390e8
 xhamster1.desi##.rb-new__button--dislike
 xhamster1.desi##.rb-new__info
 xhamster1.desi##.rb-new__button--like
+xhamster1.desi##._8b4ca96f._0c4ead51
+xhamster1.desi##.fSYoP-vcAXf.fSYoP-vcAXf--top.fSYoP-vcAXfno-ts-init
+xhamster1.desi##.tabSet-792ed.nowrap-792ed
+xhamster1.desi##li.listItem-7ae27:nth-of-type(3) > .root-48288.primary-48288.link-7ae27
+xhamster1.desi##li.listItem-7ae27:nth-of-type(5) > .root-48288.primary-48288.link-7ae27
+xhamster1.desi##.list-7ae27
+xhamster1.desi##.root-7ae27
+xhamster1.desi##.prePopunderLabel-15e4c.page-15e4c
+xhamster1.desi##.fSYoP-vcAXf.fSYoP-vcAXf--middle.fSYoP-vcAXfno-ts-init
+xhamster1.desi##.thumbs-b7566
+xhamster1.desi##.root-48288.primary-48288.side-b7566.sideLeft-b7566
+xhamster1.desi##.fSYoP-vcAXf.fSYoP-vcAXf--bottom.fSYoP-vcAXfno-ts-init > .mobileHorizontal-a85ac > .header-a85ac
+xhamster1.desi##.fSYoP-vcAXf.fSYoP-vcAXf--bottom.fSYoP-vcAXfno-ts-init
+xhamster1.desi##.root-64d24.color-indigo-64d24.hasRightIcon-64d24.button-cdbbb
+xhamster1.desi##.root-64d24.color-secondary-64d24.hasLeftIcon-64d24.noText-64d24.button-86fb3
+xhamster1.desi##.root-126bb.controls > button.root-64d24.color-secondary-64d24.hasLeftIcon-64d24:nth-of-type(2)
+xhamster1.desi##.root-64d24.color-secondary-64d24.hasLeftIcon-64d24.noText-64d24.button-390e8
+xhamster1.desi##.body-bold-8643e.label-5984a
+xhamster1.desi##.xplayer-views-info
+xhamster1.desi##.container-f57ba
+xhamster1.desi##.prePopunderLabel-15e4c.mobileBlock-15e4c
+xhamster1.desi##div.block-0d76d:nth-of-type(3)
 xhamster3.com##.top-menu.width-wrap
 xhamster3.com##.top-menu-container
 xhamster3.com##.controls-f2600.isDesktopSite-f2600
